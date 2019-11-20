@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lotto/static/css/main.e28fd300.chunk.css",
+    "main.js": "/lotto/static/js/main.9c02b54f.chunk.js",
+    "main.js.map": "/lotto/static/js/main.9c02b54f.chunk.js.map",
+    "runtime-main.js": "/lotto/static/js/runtime-main.c04218cc.js",
+    "runtime-main.js.map": "/lotto/static/js/runtime-main.c04218cc.js.map",
+    "static/js/2.1a04d2a5.chunk.js": "/lotto/static/js/2.1a04d2a5.chunk.js",
+    "static/js/2.1a04d2a5.chunk.js.map": "/lotto/static/js/2.1a04d2a5.chunk.js.map",
+    "index.html": "/lotto/index.html",
+    "precache-manifest.d1d1eb7c556722b35b469413c5c09aee.js": "/lotto/precache-manifest.d1d1eb7c556722b35b469413c5c09aee.js",
+    "service-worker.js": "/lotto/service-worker.js",
+    "static/css/main.e28fd300.chunk.css.map": "/lotto/static/css/main.e28fd300.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c04218cc.js",
+    "static/js/2.1a04d2a5.chunk.js",
+    "static/css/main.e28fd300.chunk.css",
+    "static/js/main.9c02b54f.chunk.js"
+  ]
+}
