@@ -1,9 +1,13 @@
 import React from 'react';
+import Ball from './Ball';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello</h1>
+    <div>
+      <Ball num={17} />
+      <Ball num={13} />
+      <Ball num={11} />
+      <Ball num={9} />
     </div>
   );
 }
